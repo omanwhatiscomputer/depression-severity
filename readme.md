@@ -6,4 +6,5 @@ Trained on python `version=3.8.10`. Requires python version `>=3.6` and `<=3.8` 
 
 #Manuscript preprint:  https://preprints.jmir.org/preprint/36118/accepted
 
-
+Cite:
+https://doi.org/10.2196%2F36118
